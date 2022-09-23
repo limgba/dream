@@ -25,8 +25,8 @@ code
 		entity
 			picture
 			rigid body
-			click
-			control
+			mouse
+			keyboard
 			attribute
 			form
 			skill
